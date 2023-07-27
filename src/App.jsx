@@ -7,7 +7,6 @@ import { callMsGraph } from './graph';
 import { PageLayout } from './components/PageLayout';
 import { ProfileData } from './components/ProfileData';
 
-import logo from './logo.svg';
 import './App.css';
 
 import Button from 'react-bootstrap/Button';
